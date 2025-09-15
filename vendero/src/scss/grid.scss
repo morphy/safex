@@ -1,0 +1,73 @@
+@use "sass:map";
+@use "sass:math";
+@use "sass:list";
+
+$sizes: (
+  "xs": 0px,
+  "sm": 768px,
+  "md": 992px,
+  "lg": 1200px
+);
+
+@mixin render-rule($class, $properties-values, $value-index) {
+  #{$class} {
+    @each $property, $values in $properties-values {
+      #{$property}: list.nth($values, $value-index);
+    }
+  }
+}
+
+@mixin responsive($class, $propertiesValues) {
+  @each $size-name, $size-value in $sizes {
+    $size-index: list.index($sizes, $size-name $size-value);
+
+    @if $size-value == 0px {
+      @include render-rule($class, $propertiesValues, $size-index);
+    } @else {
+      @media (min-width: #{$size-value}) {
+        @include render-rule($class, $propertiesValues, $size-index);
+      }
+    }
+  }
+}
+
+.container,
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@include responsive(
+  ".container",
+  (
+    max-width: (
+      100%,
+      752px,
+      972px,
+      1182px
+    )
+  )
+);
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@mixin columns($name) {
+  @for $i from 1 through 12 {
+    .col-#{$name}-#{$i} {
+      flex-basis: #{math.div(100%, 12) * $i};
+    }
+  }
+}
+
+@each $size-name, $size-value in $sizes {
+  @if $size-value == 0px {
+    @include columns($size-name);
+  } @else {
+    @media (min-width: #{$size-value}) {
+      @include columns($size-name);
+    }
+  }
+}
