@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "format": "prettier **/* --write --ignore-unknown --trailing-comma none",
+    "build": "shx rm -rf dist && shx mkdir -p dist && cd src && bestzip ../dist/safex.zip *"
+  },
+  "devDependencies": {
+    "bestzip": "^2.2.1",
+    "prettier": "^3.6.2",
+    "shx": "^0.4.0"
+  }
+}
