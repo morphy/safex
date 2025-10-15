@@ -8,11 +8,10 @@ layout: home
 # ------ Hero ------
 
 heroTop: PHU Safex Krzysztof Skodowski
-hero: Rozwiązania plandekowe i okryciowe
+hero: Plandeki na zamówienie i [sklep internetowy](https://plandeki24.pl)
 heroBottom: >-
   Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
-  wysokoprężonych. Oferujemy szeroki wybór plandek, w tym lekkie, ciężkie,
-  wodoszczelne oraz okryciowe.
+  wysokoprężonych. Oferujemy plandeki lekkie i ciężkie, siatki ochronne oraz plandeki bezbarwne.
 
 heroImage: assets/images/safex/safex-siedziba-1.jpg
 heroImageAlt: test
