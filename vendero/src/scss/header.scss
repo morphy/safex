@@ -1,0 +1,9 @@
+header .row:has(> div > .logo) {
+  align-items: center;
+  padding: 32px 0;
+}
+
+.logo img {
+  display: block;
+  height: 56px;
+}
