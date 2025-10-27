@@ -1,46 +1,42 @@
-<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G790MG7PSG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-G790MG7PSG');
+</script>
+
   <!-- General meta -->
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Main css -->
-
-  <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
-
+  <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
   <!-- Favicon -->
-
-  <link rel="icon" type="image/png" sizes="48x48" href="{{ "assets/favicon/favicon-48x48.png" | relative_url }}">
-  <link rel="icon" type="image/svg+xml" href="{{ "assets/favicon/favicon.svg" | relative_url }}">
-  <link rel="shortcut icon" href="{{ "assets/favicon/favicon.ico" | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "assets/favicon/apple-touch-icon.png" | relative_url }}">
-  <link rel="manifest" href="{{ "assets/favicon/site.webmanifest" | relative_url }}">
-  <meta name="apple-mobile-web-app-title" content="Safex">
-
+  <link rel="icon" type="image/png" sizes="48x48" href="{{ 'assets/favicon/favicon-48x48.png' | relative_url }}" />
+  <link rel="icon" type="image/svg+xml" href="{{ 'assets/favicon/favicon.svg' | relative_url }}" />
+  <link rel="shortcut icon" href="{{ 'assets/favicon/favicon.ico' | relative_url }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | relative_url }}" />
+  <link rel="manifest" href="{{ 'assets/favicon/site.webmanifest' | relative_url }}" />
+  <meta name="apple-mobile-web-app-title" content="Safex" />
   <!-- Leaflet -->
-
-  <link rel="stylesheet" href="{{ "assets/lib/leaflet/leaflet.css" | relative_url }}">
-  <script async src="{{ "assets/lib/leaflet/leaflet.js" | relative_url }}"></script>
-
+  <link rel="stylesheet" href="{{ 'assets/vendor/leaflet.css' | relative_url }}" />
+  <script src="{{ 'assets/vendor/leaflet.js' | relative_url }}" async></script>
   <!-- Search -->
-
-  <script async src="{{ "assets/lib/simple-jekyll-search/simple-jekyll-search.min.js" | relative_url }}"></script>
+  <script src="{{ 'assets/vendor/simple-jekyll-search.min.js' | relative_url }}" async></script>
   <script>
     window.addEventListener('load', async () => {
       const searchInput = document.getElementById('search-input');
       const searchClear = document.getElementById('search-clear');
-
       const clearInput = () => {
         searchInput.value = '';
         searchInput.dispatchEvent(new Event('input'));
       };
-
       searchClear.addEventListener('click', clearInput);
       searchInput.addEventListener('keydown', (event) => {
         if (event.key === 'Escape') clearInput();
       });
-
       SimpleJekyllSearch({
         searchInput,
         resultsContainer: document.getElementById('search-results'),
@@ -52,11 +48,8 @@
       });
     });
   </script>
-
   {% seo %}
-
   <!-- Google Tag Manager -->
-
   <script>
     (function (w, d, s, l, i) {
       w[l] = w[l] || [];
@@ -69,6 +62,4 @@
       f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', '{{ site.gtag }}');
   </script>
-
   <!-- End Google Tag Manager -->
-</head>
