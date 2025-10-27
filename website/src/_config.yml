@@ -4,27 +4,20 @@ description: >-
   wysokoprężonych. Zakupić u nas można też materiały gazoszczelne, zabudowy
   tarasów, a także siatki kontenerowe i budowlane. Produkujemy również siatki
   estradowe, wielkoformatowe zadaszenia namiotów i blendy tenisowe.
-
 gtag: GTM-PL7845FG
-
 baseurl: ""
 url: ""
 host: 0.0.0.0
-
 emptyArray: []
-
 plugins:
   - jekyll-seo-tag
   - jekyll-last-modified-at
   - jekyll-minifier
-
 jekyll-minifier:
   uglifier_args:
     harmony: true
-
 picture:
-  disabled: false
-
+  disabled: true
 defaults:
   - scope:
       path: ""
@@ -44,16 +37,13 @@ defaults:
       path: "_baza-wiedzy"
     values:
       layout: page-collection
-
 collections:
   oferta:
     output: true
   baza-wiedzy:
     output: true
-
 include:
   - _pages
-
 exclude:
   - .jekyll-cache/
   - Gemfile
