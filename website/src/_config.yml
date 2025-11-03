@@ -23,7 +23,7 @@ jekyll-minifier:
     harmony: true
 
 picture:
-  disabled: false
+  disabled: true
 
 defaults:
   - scope:

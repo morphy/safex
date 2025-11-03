@@ -7,11 +7,11 @@ order: 5
 Oferujemy usługę wycinania profesjonalnym ploterem tnącym **SUMMA S2 160 T**.
 Głównym zadaniem tej maszyny to:
 
-- wycinanie grafiki,
+- wycinanie folii,
 - wycinanie napisów,
 - wycinanie liter,
 - wycinanie szablonów
-- i wiele innych.
+
 
 Wykonujemy szablony do malowania na ścianach, szablony do malowania po tkaninach
 technicznych itp. Dysponujemy jednym z najnowszych urządzeń tego typu – ploterem
