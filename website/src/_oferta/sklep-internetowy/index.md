@@ -1,12 +1,20 @@
 ---
-title: Produkty gotowe
-subtitle: Produkty gotowe
+title: "Produkty gotowe"
+subtitle: "Sklep online"
+description: "Gotowe plandeki, siatki rusztowaniowe i akcesoria. Zakupy online w sklepie plandeki24.pl."
 order: 1
 
 overrides:
   url: https://plandeki24.pl/
 ---
 
-Plandeki24.pl to sklep internetowy specjalizujący się w solidnych rozwiązaniach okryciowych. W ofercie znajdują się grube plandeki polietylenowe, które skutecznie zabezpieczają drewno i materiały budowlane przed deszczem, śniegiem, promieniowaniem UV i zabrudzeniami. Sprawdzają się przy składowaniu na zewnątrz, ograniczając ryzyko zawilgocenia, deformacji i utraty parametrów użytkowych przechowywanych produktów.
+Gotowe **plandeki**, **siatki rusztowaniowe** i **akcesoria** dostępne od ręki w naszym sklepie **plandeki24.pl**. <!--more-->
 
-Asortyment obejmuje także siatki i plandeki rusztowaniowe do prac elewacyjnych, przykrycia kontenerowe oraz akcesoria montażowe. Produkty pomagają chronić maszyny i urządzenia przed korozją, uszkodzeniami mechanicznymi i zmiennymi temperaturami podczas postoju na otwartym powietrzu. Zakupy są proste i szybkie, a płatność możliwa przez BLIK.
+## Co kupisz w sklepie
+- Plandeki PE w kilku gramaturach i rozmiarach
+- Siatki i plandeki rusztowaniowe
+- Linki bungee, przekrętki, oczka i akcesoria montażowe
+- Pokrowce i przykrycia standardowe
+
+[Przejdź do sklepu →](https://plandeki24.pl/)
+

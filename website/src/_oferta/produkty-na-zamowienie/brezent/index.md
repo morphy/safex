@@ -1,8 +1,7 @@
 ---
 title: "Plandeka brezentowa na wymiar"
-permalink: /plandeka-brezentowa-na-wymiar/
 description: "Plandeka brezentowa z tkanin naturalnych (len/bawełna) szyta na wymiar. Krótkotrwała tolerancja wysokiej temperatury, brak wodoodporności. Szycie, obszycie, oczka."
-order: 1
+order: 6
 time: 5-10 dni roboczych
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Plandeka kedrowa na wymiar"
-permalink: /plandeka-kedrowa-na-wymiar/
 description: "Plandeka kedrowa na wymiar z PCV 650 g/m2. Keder dopasowany do profilu, opcjonalna klapka ochronna, uchwyty transportowe z taśmy pasowej. Wersja trudnopalna lub standardowa."
-order: 1
+order: 2
 time: 10-20 dni roboczych
 ---
 

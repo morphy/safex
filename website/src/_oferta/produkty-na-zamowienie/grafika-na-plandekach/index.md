@@ -1,8 +1,7 @@
 ---
 title: "Plandeka z grafiką malowaną na wymiar"
-permalink: /plandeka-z-grafika-malowana-na-wymiar/
 description: "Plandeka z grafiką malowaną wałeczkiem przez szablon foliowy. Farba do PCV trwale łącząca się z podłożem. Trwałość wieloletnia. Oczka nierdzewne na życzenie. Wymagane pliki wektorowe."
-order: 1
+order: 10
 time: 5-15 dni roboczych
 ---
 

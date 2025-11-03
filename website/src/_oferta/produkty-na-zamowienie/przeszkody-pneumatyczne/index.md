@@ -1,9 +1,10 @@
 ---
 title: Przeszkody pneumatyczne
 time: 14+ dni roboczych
+order:14
 ---
 
-a zlecenie naszej długoletniej partnerki biznesowej, firmy **Adventure Park
+Na zlecenie naszej długoletniej partnerki biznesowej, firmy **Adventure Park
 Kolibki**, zaprojektowaliśmy i wykonaliśmy **specjalistyczne przeszkody
 pneumatyczne** przeznaczone do biegów ekstremalnych. Wykonane są z **wyjątkowo
 mocnej tkaniny pontonowej gazoszczelnej**, co gwarantuje trwałość i niezawodność

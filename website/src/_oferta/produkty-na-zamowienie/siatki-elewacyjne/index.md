@@ -1,6 +1,7 @@
 ---
 title: Siatki elewacyjne
 time: 5-10 dni roboczych
+order: 15
 ---
 
 Wykonujemy **siatki elewacyjne** mające zastosowanie w budownictwie i
