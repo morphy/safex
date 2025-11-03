@@ -8,7 +8,7 @@ layout: home
 # ------ Hero ------
 
 heroTop: PHU Safex Krzysztof Skodowski
-hero: Plandeki na zamówienie i [sklep internetowy](https://plandeki24.pl)
+hero: Plandeki na zamówienie i sklep internetowy
 heroBottom: >-
   Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
   wysokoprężonych. Oferujemy plandeki lekkie i ciężkie, siatki ochronne oraz plandeki bezbarwne.
@@ -52,11 +52,11 @@ categoriesHref: oferta
 # ------ Services ------
 
 servicesFilter:
-  - _oferta/taras-i-ogrod/siedziska-na-krzesla/index.md
+  - _oferta/okna-tarasowe-i-akcesoria-ogrodowe/siedziska-na-krzesla/index.md
   - _oferta/wyposazenie-sceniczne/ekrany-akustyczne-swinoujscie/index.md
   - _oferta/wyposazenie-sceniczne/siatki-estradowe/index.md
-  - _oferta/przemyslowe/kola-sztaplarki/index.md
-  - _oferta/taras-i-ogrod/plandeki-z-oknami/index.md
+  - _oferta/produkty-na-zamowienie/kola-sztaplarki/index.md
+  - _oferta/okna-tarasowe-i-akcesoria-ogrodowe/plandeki-z-oknami/index.md
   - _oferta/zadaszenia-membranowe/amfiteatr-stezyca/index.md
 
 servicesTitle: Membrany

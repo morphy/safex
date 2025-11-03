@@ -1,7 +1,7 @@
 ---
 title: Przeszkody pneumatyczne
 time: 14+ dni roboczych
-order:14
+order: 14
 ---
 
 Na zlecenie naszej długoletniej partnerki biznesowej, firmy **Adventure Park

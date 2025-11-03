@@ -1746,6 +1746,10 @@ video {
   transition-duration: 200ms;
 }
 
+.\[oaicite\:1\] {
+  oaicite: 1;
+}
+
 #menuButton span {
   &,
   &::before,
