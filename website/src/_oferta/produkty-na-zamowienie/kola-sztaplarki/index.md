@@ -8,7 +8,7 @@ order: 12
 time: 5-10 dni roboczych
 ---
 
-# Osłony na koła sztaplarki na wymiar
+
 
 Projektujemy i szyjemy pokrowce ochronne na koła wózków widłowych do stref o
 wysokich wymaganiach sanitarnych (magazyny spożywcze, produkcja, logistyka).

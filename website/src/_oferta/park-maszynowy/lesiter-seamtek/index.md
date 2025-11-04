@@ -9,7 +9,6 @@ order: 10
 time: 1-5 dni roboczych
 ---
 
-# LEISTER SEAMTEK - zgrzewanie nietypowych powierzchni
 
 Zgrzewamy gorącym powietrzem na LEISTER SEAMTEK. Regulujemy temperaturę, docisk
 i prędkość, dzięki czemu dobieramy parametry do materiału i zastosowania.

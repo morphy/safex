@@ -9,7 +9,6 @@ order: 4
 time: 1-5 dni roboczych
 ---
 
-# Zgrzewanie i naprawa plandek ciepłym powietrzem
 
 Zgrzewamy i naprawiamy tkaniny powlekane PVC metodą ciepłego powietrza.
 Wykonujemy zgrzewy proste, narożne oraz elementy funkcjonalne: tunele,

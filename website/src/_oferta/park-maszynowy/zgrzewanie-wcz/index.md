@@ -9,7 +9,7 @@ order: 3
 time: 10+ dni roboczych
 ---
 
-# Zgrzewanie HF maszyną FIAB (wysoka częstotliwość)
+
 
 Wykonujemy zgrzewanie wysoką częstotliwością (HF) na maszynie FIAB
 przystosowanej do dużych powłok. Zgrzewy są szczelne i bardzo wytrzymałe, a

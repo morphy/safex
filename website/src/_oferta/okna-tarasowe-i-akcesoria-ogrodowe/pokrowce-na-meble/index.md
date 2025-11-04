@@ -8,7 +8,6 @@ order: 5
 time: 5-10 dni roboczych
 ---
 
-# Pokrowce na meble ogrodowe na wymiar
 
 Szyjemy pokrowce na meble ogrodowe na wymiar z tkanin PCV odpornych na wodę i
 UV. Dobieramy gramaturę do sposobu użytkowania i wagi pokrowca. Montaż szybki

@@ -8,7 +8,7 @@ order: 9
 time: 10+ dni roboczych
 ---
 
-# Taśmociągi i podajniki - poszycia i elementy z PCV
+
 
 Wykonujemy elementy do taśmociągów i podajników z **tkanin powlekanych PCV**:
 fartuchy krawędziowe, rynny i leje zsypowe, taśmy wygarniające, osłony i

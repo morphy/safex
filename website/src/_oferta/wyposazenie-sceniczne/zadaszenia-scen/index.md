@@ -9,7 +9,7 @@ order: 2
 time: 10-15 dni roboczych
 ---
 
-# Zadaszenia scen - trudnopalne poszycia na wymiar
+
 
 Projektujemy i produkujemy poszycia dachów scenicznych z trudnopalnych tkanin
 PVC. Poszycia są szczelne, wzmocnione w strefach obciążeń i gotowe do pracy na

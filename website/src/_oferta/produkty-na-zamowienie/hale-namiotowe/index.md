@@ -8,7 +8,7 @@ order: 3
 time: 10-20 dni roboczych
 ---
 
-# Hale namiotowe - poszycia plandekowe na wymiar
+
 
 Szyjemy i zgrzewamy poszycia plandekowe do hal namiotowych zgodnie z
 dokumentacją i wymiarami klienta. Dach i ściany wykonujemy osobno, z opcją

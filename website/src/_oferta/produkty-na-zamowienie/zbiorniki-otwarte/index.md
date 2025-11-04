@@ -9,7 +9,7 @@ order: 17
 time: 10+ dni roboczych
 ---
 
-# Zbiorniki otwarte - poszycia na wymiar
+
 
 Produkujemy **poszycia** do zbiorników otwartych z bardzo mocnej tkaniny
 powlekanej PCV (Scantarp). Zastosowania: baseny rekreacyjne i hodowlane,

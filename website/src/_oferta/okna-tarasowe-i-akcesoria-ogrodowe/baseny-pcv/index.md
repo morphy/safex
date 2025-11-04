@@ -9,7 +9,6 @@ order: 7
 time: 5-10 dni roboczych
 ---
 
-# Baseny PCV - poszycia na wymiar
 
 Produkujemy **poszycia basenowe z tkaniny PCV** na wymiar. Dostarczamy samo
 poszycie, bez konstrukcji stelażowej. Zgrzewane łączenia zapewniają szczelność,

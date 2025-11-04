@@ -9,7 +9,7 @@ order: 3
 time: 10-15 dni roboczych
 ---
 
-# Bezbarwne dachy sceniczne z folii PVC
+
 
 Produkujemy dachy sceniczne z **folii transparentnej PVC** na wymiar. Zapewniają
 **ochronę przed opadami** i **pełną widoczność** konstrukcji oraz oświetlenia.

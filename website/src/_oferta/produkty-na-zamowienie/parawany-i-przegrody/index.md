@@ -8,7 +8,7 @@ order: 11
 time: 5-10 dni roboczych
 ---
 
-# Parawany i przegrody mobilne na wymiar
+
 
 Oferujemy lekkie, przenośne osłony do wydzielania stanowisk i stref remontowych.
 Moduły wypełnione trudnopalną tkaniną poliestrową powlekaną PVC są szybkie w

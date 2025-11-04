@@ -7,7 +7,7 @@ order: 7
 time: 5-10 dni roboczych
 ---
 
-# Mata na ring bokserski na wymiar
+
 
 Mata antypoślizgowa na ring bokserski wykonywana na wymiar z tkaniny
 Scanplan 5570. Wysoka odporność na ścieranie i łatwe czyszczenie. Kolor

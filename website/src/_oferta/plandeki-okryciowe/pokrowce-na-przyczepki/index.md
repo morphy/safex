@@ -9,7 +9,7 @@ order: 4
 time: 5-10 dni roboczych
 ---
 
-# Plandeki na przyczepki na wymiar
+
 
 Wykonujemy plandeki na przyczepki - płaskie i ze stelażem - na indywidualny
 wymiar. Standard: PCV ok. 650 g/m2, krawędzie zgrzewane, oczka stal ocynk Ø16 mm

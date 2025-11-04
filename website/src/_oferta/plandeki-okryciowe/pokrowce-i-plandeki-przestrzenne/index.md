@@ -9,7 +9,7 @@ order: 2
 time: 5-10 dni roboczych
 ---
 
-# Pokrowce i plandeki przestrzenne na wymiar
+
 
 Wykonujemy pokrowce 3D i plandeki przestrzenne na wymiar według szkicu lub
 modelu klienta. Dobieramy materiał pod warunki pracy. Stosujemy szycie lub

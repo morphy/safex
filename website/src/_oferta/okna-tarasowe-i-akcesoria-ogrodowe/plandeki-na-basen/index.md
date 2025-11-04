@@ -8,8 +8,6 @@ order: 6
 time: 5-10 dni roboczych
 ---
 
-# Plandeki na baseny na wymiar
-
 Produkujemy plandeki do przykrycia basenów z **PCV 650 g/m2**. Chronią przed
 liśćmi, kurzem i owadami, ułatwiają utrzymanie czystości i ograniczają prace
 porządkowe. Montaż: oczka + linka bungee lub **tunele pod rurki**.

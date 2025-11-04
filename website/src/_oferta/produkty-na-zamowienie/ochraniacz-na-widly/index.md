@@ -8,7 +8,7 @@ order: 19
 time: 5-10 dni roboczych
 ---
 
-# Osłony na widły wózków widłowych na wymiar
+
 
 Szyjemy pokrowce na widły z wytrzymałej tkaniny powlekanej PCV. Chronią ładunek
 przed zarysowaniem i ubrudzeniem oraz redukują zużycie wideł. Montaż szybki i

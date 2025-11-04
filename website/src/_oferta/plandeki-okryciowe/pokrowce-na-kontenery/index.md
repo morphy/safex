@@ -8,7 +8,7 @@ order: 6
 time: 5-10 dni roboczych
 ---
 
-# Plandeka na kontener Open Top na wymiar
+
 
 Wykonujemy plandeki na kontenery typu Open Top na wymiar. Wodoszczelne, z
 oczkami pod linkę celną rozmieszczonymi pod punkty mocowania kontenera. Pracują

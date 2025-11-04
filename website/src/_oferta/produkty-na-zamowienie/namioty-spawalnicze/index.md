@@ -9,7 +9,7 @@ order: 7
 time: 5-10 dni roboczych
 ---
 
-# Poszycia namiotów spawalniczych na wymiar
+
 
 Szyjemy poszycia do namiotów serwisowych dla spawaczy. Materiał o podwyższonej
 trudnopalności: **na zewnątrz niebieski**, **wewnątrz biały** – dobre

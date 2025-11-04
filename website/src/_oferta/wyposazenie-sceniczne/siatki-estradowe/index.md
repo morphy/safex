@@ -9,7 +9,6 @@ order: 1
 time: 3-10 dni roboczych
 ---
 
-# Siatka estradowa na wymiar – trudnopalna
 
 Siatki estradowe produkujemy na wymiar z materiałów trudnopalnych z atestami.
 Standard: kolor czarny, krawędzie wzmocnione, mocowanie przez oczka lub kieszeń

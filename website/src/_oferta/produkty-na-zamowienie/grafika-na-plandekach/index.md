@@ -8,7 +8,7 @@ order: 10
 time: 5-15 dni roboczych
 ---
 
-# Plandeka z grafiką malowaną na wymiar (baner)
+
 
 Grafikę wykonujemy techniką malowania wałeczkiem przez szablon foliowy na
 tkaninie powlekanej PCV, farbą przeznaczoną do trwałego łączenia z podłożem. To

@@ -8,7 +8,6 @@ order: 8
 time: 1-3 dni roboczych
 ---
 
-# Przycinanie całych rolek piłą taśmową
 
 Tniemy **całe rolki** materiału bez ich rozwijania. Dotyczy plandek PCV, taśm i
 folii nawiniętych na tuleje. **Prześwit piły 26 cm**, **maksymalna długość

@@ -8,7 +8,7 @@ order: 2
 time: 10-20 dni roboczych
 ---
 
-# Plandeka kedrowa na wymiar
+
 
 Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z
 kederem dopasowanym do profilu aluminiowego lub stalowego. Opcjonalnie klapka

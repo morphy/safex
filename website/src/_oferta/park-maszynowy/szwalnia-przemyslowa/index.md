@@ -9,7 +9,7 @@ order: 1
 time: 1-5 dni roboczych
 ---
 
-# Szwalnia przemysłowa z maszynami Typical
+
 
 Szyjemy ciężkie materiały na nowoczesnych, sterowanych elektronicznie maszynach
 Typical z długim ramieniem 750 mm. Kilka egzemplarzy tych maszyn umożliwia

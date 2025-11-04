@@ -9,7 +9,7 @@ order: 5
 time: 5-10 dni roboczych
 ---
 
-# Kotary przemysłowe na wymiar - kotary, przepierzenia, kurtyny
+
 
 Kotary wykonujemy na wymiar z PCV 650 g/m2. Montaż na szynach jezdnych z
 rolkami, na lince stalowej lub na rurce. Dostępne łączenie na rzep, zakładkę lub

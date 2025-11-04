@@ -8,7 +8,7 @@ order: 6
 time: 5-10 dni roboczych
 ---
 
-# Plandeka brezentowa na wymiar
+
 
 Plandeki brezentowe szyjemy wyłącznie z tkanin naturalnych (len/bawełna), bez
 powłok i bez impregnacji. Naturalny brezent lepiej znosi krótkotrwały kontakt z

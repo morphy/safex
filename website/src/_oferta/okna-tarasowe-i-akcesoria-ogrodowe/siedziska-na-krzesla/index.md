@@ -9,7 +9,6 @@ order: 3
 time: 2-10 dni roboczych
 ---
 
-# Naprawa siedzisk krzeseł ogrodowych
 
 Wymieniamy i szyjemy **siedziska do krzeseł ogrodowych** z **siatki PVC** o
 oczku **1,5×2 mm**. Materiał jest odporny na UV i deszcz, łatwy w czyszczeniu i

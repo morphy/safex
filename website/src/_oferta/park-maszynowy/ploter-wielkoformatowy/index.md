@@ -9,7 +9,6 @@ order: 6
 time: 1-5 dni roboczych
 ---
 
-# Ploter wielkoformatowy 3,1 × 21,2 m
 
 Rozkrawamy i znakujemy tkaniny powlekane na ploterze o polu pracy **3,1 × 21,2
 m**. Przygotowujemy skomplikowane wykroje z uwzględnieniem rozciągliwości

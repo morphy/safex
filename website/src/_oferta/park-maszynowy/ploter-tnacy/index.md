@@ -9,7 +9,6 @@ order: 5
 time: 1-3 dni roboczych
 ---
 
-# Ploter tnący – wycinanie folii i szablonów
 
 Wycinamy na profesjonalnym ploterze **SUMMA S2 160 T** z aktywnym nożem. Realna
 szerokość cięcia do **158 cm**, długość elementu do **12 m**. Precyzyjne napisy,

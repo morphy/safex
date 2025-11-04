@@ -8,7 +8,7 @@ order: 16
 time: 10+ dni roboczych
 ---
 
-# Basen skimboardowy na wymiar
+
 
 Produkujemy baseny skimboardowe na wymiar z gazoszczelnej tkaniny pontonowej
 PVC/PU. Dno z tkaniny antypoślizgowej („pryzma”) umożliwia bezpieczne

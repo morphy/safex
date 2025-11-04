@@ -4,7 +4,7 @@ order: 1
 time: 5-10 dni roboczych
 ---
 
-# Plandeka na wymiar płaska PCV 650 g/m2
+
 
 Plandeka płaska wykonywana na wymiar z tkaniny PCV 650 g/m2. Standard: oczka
 stalowe ocynkowane co 50 cm, średnica 16 mm. Praca całoroczna na zewnątrz,

@@ -8,7 +8,7 @@ order: 5
 time: 5-10 dni roboczych
 ---
 
-# Zimowy pokrowiec na łódź na wymiar
+
 
 Pokrowiec zimowy wykonujemy na wymiar z PCV ok. 530 g/m2. Krawędzie zgrzewane.
 Mocowanie linką bungee, paskami z klamrami lub rzepami. Przeznaczony do postoju

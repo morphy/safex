@@ -9,7 +9,6 @@ order: 1
 time: 5-15 dni roboczych
 ---
 
-# Plandeka tarasowa z oknami PVC (Plandeka bezbarwna)
 
 Plandeka na taras z oknami wykonywana na wymiar. Ramka z PCV 650 g/m2, okno z
 folii transparentnej PVC. Standardowe mocowanie: przekrętki obrotowe ocynkowane

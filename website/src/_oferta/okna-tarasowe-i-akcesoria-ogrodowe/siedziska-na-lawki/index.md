@@ -9,8 +9,6 @@ order: 4
 time: 2-10 dni roboczych
 ---
 
-# Naprawa siedzisk na ławki ogrodowe
-
 Zamiast wyrzucać całą ławkę, **wymień samo siedzisko**. To realne ograniczenie
 odpadów i mniejszy ślad węglowy niż zakup nowego mebla.
 

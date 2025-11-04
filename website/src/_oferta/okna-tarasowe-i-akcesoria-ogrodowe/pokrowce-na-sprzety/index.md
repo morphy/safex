@@ -9,7 +9,6 @@ order: 9
 time: 5-10 dni roboczych
 ---
 
-# Pokrowce na sprzęty ogrodowe na wymiar
 
 Szyjemy **pokrowce na sprzęty ogrodowe** dopasowane do wymiarów Twojego
 urządzenia. Materiał PCV jest wodoszczelny i odporny na UV, a mocowania

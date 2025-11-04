@@ -8,7 +8,7 @@ order: 1
 time: 10+ dni roboczych
 ---
 
-# Plandeki wielkoformatowe na wymiar
+
 
 Produkujemy prawdziwie wielkoformatowe plandeki na indywidualny wymiar.
 Pracujemy w hali produkcyjnej o długości 40 m, łącząc panele w jednolite powłoki
