@@ -33,7 +33,7 @@ jobs:
         run: sudo apt install libvips;
 
       - name: Build with Jekyll
-        run: cd website; npm i; npm run build:production;
+        run: cd website; bundle update; bundle install; npm i; npm run build:production;
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
