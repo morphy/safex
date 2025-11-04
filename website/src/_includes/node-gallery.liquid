@@ -8,12 +8,16 @@
   <div id="gallery" class="grid grid-cols-5 gap-4">
     {% for file in imageFiles %}
       <a href="{{ file.url | relative_url }}">
-        {%
-          picture gallery-thumbnail {{ file.path }}
-          --img class="w-full aspect-square object-cover"
-          --img alt=""
-          --img loading="lazy"
-        %}
+        {% if jekyll.environment == 'production' %}
+          {%
+            picture gallery-thumbnail {{ file.path }}
+            --img class="w-full aspect-square object-cover"
+            --img alt=""
+            --img loading="lazy"
+          %}
+        {% else %}
+          <img src="{{ file.path }}" class="w-full aspect-square object-cover" alt="" loading="lazy">
+        {% endif %}
       </a>
     {% endfor %}
   </div>

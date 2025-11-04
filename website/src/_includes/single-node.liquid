@@ -5,11 +5,15 @@
   <article class="lg:col-span-9">
     <div class="h-80">
       {% if imageFiles.first %}
-        {%
-          picture single-node {{ imageFiles.first.path }}
-          --img class="size-full object-cover"
-          --img alt=""
-        %}
+        {% if jekyll.environment == 'production' %}
+          {%
+            picture single-node {{ imageFiles.first.path }}
+            --img class="size-full object-cover"
+            --img alt=""
+          %}
+        {% else %}
+          <img src="{{ imageFiles.first.url }}" class="size-full object-cover" alt="">
+        {% endif %}
       {% endif %}
     </div>
 

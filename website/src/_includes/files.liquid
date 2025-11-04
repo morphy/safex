@@ -24,11 +24,15 @@
           <div class="lg:w-72 lg:h-auto h-48">
             <a href="{{ url }}">
               {% if imageFiles.first.url %}
-                {%
-                  picture file-thumbnail {{ imageFiles.first.path }}
-                  --img class="size-full object-cover"
-                  --img alt=""
-                %}
+                {% if jekyll.environment == 'production' %}
+                  {%
+                    picture file-thumbnail {{ imageFiles.first.path }}
+                    --img class="size-full object-cover"
+                    --img alt=""
+                  %}
+                {% else %}
+                  <img src="{{ imageFiles.first.url }}" class="size-full object-cover" alt="">
+                {% endif %}
               {% endif %}
             </a>
           </div>
