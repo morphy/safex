@@ -1,55 +1,64 @@
 ---
 title: "Osłony na widły wózków widłowych na wymiar"
 permalink: /oslony-na-widly-wozkow-widlowych/
-description: "Pokrowce ochronne na widły z PCV 650 g/m2. Chronią ładunek i same widły. Montaż na rzepy/paski, szybkie zakładanie. Instrukcja wymiarowania i FAQ."
+description:
+  "Pokrowce ochronne na widły z PCV 650 g/m2. Chronią ładunek i same widły.
+  Montaż na rzepy/paski, szybkie zakładanie. Instrukcja wymiarowania i FAQ."
 order: 19
 time: 5-10 dni roboczych
 ---
 
 # Osłony na widły wózków widłowych na wymiar
 
-Szyjemy pokrowce na widły z wytrzymałej tkaniny powlekanej PCV. Chronią ładunek przed zarysowaniem i ubrudzeniem oraz redukują zużycie wideł. Montaż szybki i intuicyjny.
+Szyjemy pokrowce na widły z wytrzymałej tkaniny powlekanej PCV. Chronią ładunek
+przed zarysowaniem i ubrudzeniem oraz redukują zużycie wideł. Montaż szybki i
+intuicyjny.
 
 Podaj wymiary wideł i typ mocowania - przygotujemy wycenę.
 
 ## Dlaczego ten produkt
+
 - odporność na ścieranie i uderzenia
 - szybki montaż na rzepy/paski
 - dopasowanie na wymiar do profilu wideł
 - łatwe mycie i utrzymanie czystości
 
 ## Zastosowania
+
 - logistyka i magazyny ze standardami czystości
 - ochrona delikatnych towarów, mebli, AGD
 - prace serwisowe i wewnątrzzakładowe
 
 ## Parametry techniczne
 
-| Parametr | Wartość/zakres |
-|---|---|
-| Materiał | tkanina PCV powlekana, gładka do mycia |
-| Gramatura | typowo ok. 650 g/m2 |
-| Łączenia | szyte i/lub zgrzewane w strefach obciążeń |
-| Mocowanie | rzepy przemysłowe, paski z klamrami; opcjonalnie gumy |
-| Wzmocnienia | dodatkowe pasy na krawędziach i pod spodem |
-| Odporność | woda, standardowe środki myjące |
-| Kolory | biały, szary, czarny; inne na zamówienie |
-| Tolerancja | typowo ±1% (min. ±5 mm) |
-| Serwis | naprawy i doszywki po ocenie zdjęć |
+| Parametr    | Wartość/zakres                                        |
+| ----------- | ----------------------------------------------------- |
+| Materiał    | tkanina PCV powlekana, gładka do mycia                |
+| Gramatura   | typowo ok. 650 g/m2                                   |
+| Łączenia    | szyte i/lub zgrzewane w strefach obciążeń             |
+| Mocowanie   | rzepy przemysłowe, paski z klamrami; opcjonalnie gumy |
+| Wzmocnienia | dodatkowe pasy na krawędziach i pod spodem            |
+| Odporność   | woda, standardowe środki myjące                       |
+| Kolory      | biały, szary, czarny; inne na zamówienie              |
+| Tolerancja  | typowo ±1% (min. ±5 mm)                               |
+| Serwis      | naprawy i doszywki po ocenie zdjęć                    |
 
 ## Opcje wykonania
+
 - osłona zamknięta „rękaw” lub wersja otwierana
 - podwójne wzmocnienie spodu
 - numeracja i znakowanie strefowe
 - wersja do częstego mycia ciśnieniowego
 
 ## Jak wymierzyć
-1. Zmierz **szerokość** i **grubość** pojedynczej widły.  
-2. Zmierz **długość** części roboczej, którą chcesz chronić.  
-3. Podaj kształt przekroju (prostokąt/zaokrąglenia) i promienie krawędzi.  
+
+1. Zmierz **szerokość** i **grubość** pojedynczej widły.
+2. Zmierz **długość** części roboczej, którą chcesz chronić.
+3. Podaj kształt przekroju (prostokąt/zaokrąglenia) i promienie krawędzi.
 4. Wskaż preferowane mocowanie (rzepy/paski/guma) i warunki pracy.
 
 ## Najczęstsze błędy
+
 - podanie wymiarów z tabeli producenta zamiast realnego pomiaru
 - brak luzu montażowego przy grubych rzepach
 - zbyt cienkie wzmocnienia na spodzie przy częstym podjeżdżaniu pod palety
@@ -58,18 +67,25 @@ Podaj wymiary wideł i typ mocowania - przygotujemy wycenę.
 ## FAQ
 
 ### Czy osłony pasują do wszystkich wideł
+
 Tak, szyjemy na wymiar. Potrzebne są rzeczywiste wymiary profilu i długości.
 
 ### Czy osłona się nie zsuwa
-Przy dobranych rzepach/paskach siedzi stabilnie. Dobór mocowania wykonujemy pod Twoje wymiary.
+
+Przy dobranych rzepach/paskach siedzi stabilnie. Dobór mocowania wykonujemy pod
+Twoje wymiary.
 
 ### Jak czyścić
+
 Woda z łagodnym środkiem. Dla mycia ciśnieniowego zalecamy wersję wzmocnioną.
 
 ### Czy materiał jest olejoodporny
-Standard jest do wody i środków myjących. Wersje pod oleje przygotowujemy na zamówienie.
+
+Standard jest do wody i środków myjących. Wersje pod oleje przygotowujemy na
+zamówienie.
 
 ### Jaki termin
+
 Zwykle 5-10 dni roboczych w zależności od liczby sztuk.
 
 <script type="application/ld+json">

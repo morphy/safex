@@ -1,49 +1,60 @@
 ---
 title: "Naprawa siedzisk na ławki ogrodowe"
 permalink: /naprawa-siedzisk-na-lawki-ogrodowe/
-description: "Wymiana i szycie siedzisk do ławek ogrodowych z siatki PVC Scanplan 5228. Kolory do wyboru, szybka realizacja, proste wymiarowanie. Wyślij stare siedzisko lub podaj wymiary."
+description:
+  "Wymiana i szycie siedzisk do ławek ogrodowych z siatki PVC Scanplan 5228.
+  Kolory do wyboru, szybka realizacja, proste wymiarowanie. Wyślij stare
+  siedzisko lub podaj wymiary."
 order: 4
 time: 2-10 dni roboczych
 ---
 
 # Naprawa siedzisk na ławki ogrodowe
 
-Zamiast wyrzucać całą ławkę, **wymień samo siedzisko**. To realne ograniczenie odpadów i mniejszy ślad węglowy niż zakup nowego mebla.
+Zamiast wyrzucać całą ławkę, **wymień samo siedzisko**. To realne ograniczenie
+odpadów i mniejszy ślad węglowy niż zakup nowego mebla.
 
-Szyjemy z **siatki powlekanej PVC Scanplan 5228** oraz - gdy pozwala format - z **odpadów poprodukcyjnych** (upcykling). Wykorzystujemy pełnowartościowe przycinki materiału, które normalnie trafiłyby do kosza. To **prawdziwa eko opcja** bez kompromisu na trwałości.
+Szyjemy z **siatki powlekanej PVC Scanplan 5228** oraz - gdy pozwala format - z
+**odpadów poprodukcyjnych** (upcykling). Wykorzystujemy pełnowartościowe
+przycinki materiału, które normalnie trafiłyby do kosza. To **prawdziwa eko
+opcja** bez kompromisu na trwałości.
 
-Wspieramy **prawo do naprawy**: element jest wymienny, dopasowany do Twojej ramy, a serwis wykonujemy lokalnie.
+Wspieramy **prawo do naprawy**: element jest wymienny, dopasowany do Twojej
+ramy, a serwis wykonujemy lokalnie.
 
 Podaj wymiary lub wyślij stary element na wzór - przygotujemy wycenę.
 
-
 > Najwygodniej wysłać na **Paczkomat: GDY45M**  
 > **Telefon do paczkomatu:** 792 666 016  
-> W paczce dołącz: **imię i nazwisko**, **adres zwrotny**, **telefon**, **e-mail**.
+> W paczce dołącz: **imię i nazwisko**, **adres zwrotny**, **telefon**,
+> **e-mail**.
 
 ## Dlaczego nasza siatka
+
 - wysoka wytrzymałość na rozciąganie i przetarcia
 - odporność na UV i deszcz, łatwe mycie
 - komfort i przewiewność w upały
 - **5 kolorów**: jasny szary, czarny, zielony, niebieski, biały
 
 ## Zastosowania
+
 - ławki i huśtawki ogrodowe
 - ławki na tarasach i w ogródkach gastronomicznych
 - renowacje zestawów ogrodowych
 
 ## Parametry techniczne
 
-| Parametr | Wartość/zakres |
-|---|---|
-| Materiał | siatka PVC Scanplan 5228 |
-| Oczko siatki | drobne, komfortowe do siedzisk |
-| Kolory | jasny szary, czarny, zielony, niebieski, biały |
-| Odporność | UV, deszcz, typowe środki myjące |
-| Montaż | szycie na wymiar wg wzoru lub podanych wymiarów |
-| Serwis | doróbki i poprawki po ocenie zdjęć |
+| Parametr     | Wartość/zakres                                  |
+| ------------ | ----------------------------------------------- |
+| Materiał     | siatka PVC Scanplan 5228                        |
+| Oczko siatki | drobne, komfortowe do siedzisk                  |
+| Kolory       | jasny szary, czarny, zielony, niebieski, biały  |
+| Odporność    | UV, deszcz, typowe środki myjące                |
+| Montaż       | szycie na wymiar wg wzoru lub podanych wymiarów |
+| Serwis       | doróbki i poprawki po ocenie zdjęć              |
 
 ## Opcje wykonania
+
 - wzmocnione obszycia stref naciągu
 - nić dopasowana kolorystycznie
 - dopasowanie do oryginalnych listew/prowadzeń
@@ -51,17 +62,21 @@ Podaj wymiary lub wyślij stary element na wzór - przygotujemy wycenę.
 ## Jak zamówić - 2 proste ścieżki
 
 ### 1) Wysyłasz stare siedzisko
-- Zapakuj **stare siedzisko** jako wzór.  
-- Dołącz dane kontaktowe i **adres zwrotny**.  
-- Wyślij na **Paczkomat GDY45M** (tel. 792 666 016).  
+
+- Zapakuj **stare siedzisko** jako wzór.
+- Dołącz dane kontaktowe i **adres zwrotny**.
+- Wyślij na **Paczkomat GDY45M** (tel. 792 666 016).
 - Odesłanie: nowe siedzisko gotowe do montażu.
 
 ### 2) Podajesz wymiary (gdy nie możesz wysłać)
-Mierz **zdemontowany** element (nie „po ławce”). Nie dodawaj zapasu. Rysunek do uzupełnienia znajdziesz poniżej. 
+
+Mierz **zdemontowany** element (nie „po ławce”). Nie dodawaj zapasu. Rysunek do
+uzupełnienia znajdziesz poniżej.
 
 Dołącz **2-3 zdjęcia** stelaża i mocowań.
 
 ## Najczęstsze błędy
+
 - pomiar „po meblu” zamiast po zdemontowanym siedzisku
 - dodawanie własnych zapasów - zbyt luźny naciąg
 - brak informacji o typie mocowania do stelaża
@@ -70,18 +85,23 @@ Dołącz **2-3 zdjęcia** stelaża i mocowań.
 ## FAQ
 
 ### Czy nowe siedzisko będzie wygodne i przewiewne
+
 Tak. Drobna siatka PVC jest sprężysta i przewiewna.
 
 ### Czy siatka się „rozsiądzie” po sezonie
+
 Pracuje elastycznie. Dobieramy naddatek, aby utrzymać naciąg po czasie.
 
 ### Jak czyścić
+
 Woda z łagodnym środkiem, miękka gąbka. Unikaj rozpuszczalników i ostrych padów.
 
 ### Czy dopasujecie do mojego modelu ławki
+
 Tak - na podstawie **wzoru** albo **wymiarów** i zdjęć mocowań.
 
 ### Jaki jest czas realizacji
+
 Zwykle **2-10 dni roboczych** od otrzymania wzoru lub kompletu wymiarów.
 
 <script type="application/ld+json">
@@ -129,5 +149,3 @@ Zwykle **2-10 dni roboczych** od otrzymania wzoru lub kompletu wymiarów.
   ]
 }
 </script>
-
-

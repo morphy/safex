@@ -11,7 +11,8 @@ heroTop: PHU Safex Krzysztof Skodowski
 hero: Plandeki na zamówienie i sklep internetowy
 heroBottom: >-
   Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
-  wysokoprężonych. Oferujemy plandeki lekkie i ciężkie, siatki ochronne oraz plandeki bezbarwne.
+  wysokoprężonych. Oferujemy plandeki lekkie i ciężkie, siatki ochronne oraz
+  plandeki bezbarwne.
 
 heroImage: assets/images/safex/safex-siedziba-1.jpg
 heroImageAlt: test

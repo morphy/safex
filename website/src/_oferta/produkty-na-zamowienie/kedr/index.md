@@ -1,15 +1,22 @@
 ---
 title: "Plandeka kedrowa na wymiar"
-description: "Plandeka kedrowa na wymiar z PCV 650 g/m2. Keder dopasowany do profilu, opcjonalna klapka ochronna, uchwyty transportowe z taśmy pasowej. Wersja trudnopalna lub standardowa."
+description:
+  "Plandeka kedrowa na wymiar z PCV 650 g/m2. Keder dopasowany do profilu,
+  opcjonalna klapka ochronna, uchwyty transportowe z taśmy pasowej. Wersja
+  trudnopalna lub standardowa."
 order: 2
 time: 10-20 dni roboczych
 ---
 
 # Plandeka kedrowa na wymiar
 
-Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z kederem dopasowanym do profilu aluminiowego lub stalowego. Opcjonalnie klapka ochronna zakrywająca profil przed UV i deszczem. Możliwe wersje z materiału standardowego lub trudnopalnego.
+Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z
+kederem dopasowanym do profilu aluminiowego lub stalowego. Opcjonalnie klapka
+ochronna zakrywająca profil przed UV i deszczem. Możliwe wersje z materiału
+standardowego lub trudnopalnego.
 
 ## Dlaczego taki standard
+
 - keder zapewnia równomierny naciąg i szybki montaż w profilu
 - PCV 650 g/m2 pracuje całorocznie na zewnątrz
 - klapka ochronna ogranicza UV i wnikanie wody w szczelinę profilu
@@ -17,27 +24,29 @@ Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z ke
 - montaż mieszany możliwy: keder + oczka lub kieszeń
 
 ## Zastosowania
+
 - osłony rusztowań i konstrukcji scenicznych
 - poszycia hal i wiat z profilami kedrowymi
 - panele osłonowe w zabudowach tymczasowych i stałych
 
 ## Parametry techniczne
 
-| Parametr | Wartość |
-|---|---|
-| Materiał | PCV powlekany na tkaninie poliestrowej |
-| Gramatura | ok. 650 g/m2 |
-| Krawędź mocująca | keder dopasowany do profilu klienta |
-| Dodatkowe mocowania | oczka stal ocynk, kieszeń na rurkę, przekrętki |
-| Klapka ochronna | opcjonalnie, zakrywa szczelinę profilu |
-| Uchwyty | taśma pasowa wszyta w krawędź roboczą |
-| Kolory | czerwony, zielony, niebieski, czarny, biały; inne na zapytanie |
-| Wersja FR | dostępna na zamówienie (materiał trudnopalny) |
-| Temperatura pracy | typowo -30°C do +70°C |
-| Odporność UV | tak, do pracy całorocznej |
-| Serwis | łatki PCV i wymiana akcesoriów po ocenie zdjęć |
+| Parametr            | Wartość                                                        |
+| ------------------- | -------------------------------------------------------------- |
+| Materiał            | PCV powlekany na tkaninie poliestrowej                         |
+| Gramatura           | ok. 650 g/m2                                                   |
+| Krawędź mocująca    | keder dopasowany do profilu klienta                            |
+| Dodatkowe mocowania | oczka stal ocynk, kieszeń na rurkę, przekrętki                 |
+| Klapka ochronna     | opcjonalnie, zakrywa szczelinę profilu                         |
+| Uchwyty             | taśma pasowa wszyta w krawędź roboczą                          |
+| Kolory              | czerwony, zielony, niebieski, czarny, biały; inne na zapytanie |
+| Wersja FR           | dostępna na zamówienie (materiał trudnopalny)                  |
+| Temperatura pracy   | typowo -30°C do +70°C                                          |
+| Odporność UV        | tak, do pracy całorocznej                                      |
+| Serwis              | łatki PCV i wymiana akcesoriów po ocenie zdjęć                 |
 
 ## Opcje wykonania
+
 - klapka ochronna na całej długości lub w odcinkach
 - keder po jednej lub kilku krawędziach
 - indywidualny układ oczek i kieszeni
@@ -46,12 +55,16 @@ Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z ke
 - oznaczenia i numeracja malowane szablonem
 
 ## Jak wymierzyć
+
 1. Podaj szerokość i wysokość pola w świetle profili (w cm).
-2. Określ typ i wymiar gniazda profilu. Jeśli nie znasz, dołącz zdjęcia profilu i suwmiarkę przy gnieździe.
+2. Określ typ i wymiar gniazda profilu. Jeśli nie znasz, dołącz zdjęcia profilu
+   i suwmiarkę przy gnieździe.
 3. Wskaż strony z kederem oraz miejsca uchwytów i ewentualnej klapki.
-4. Dołącz rysunek z rozstawem dodatkowych mocowań. Na tej podstawie przygotujemy wycenę i termin.
+4. Dołącz rysunek z rozstawem dodatkowych mocowań. Na tej podstawie przygotujemy
+   wycenę i termin.
 
 ## Najczęstsze błędy
+
 - niezgodny przekrój kedra z gniazdem profilu
 - pomiar po zewnętrzu ramy zamiast w świetle profili
 - brak klapki ochronnej w miejscach silnej ekspozycji na UV i deszcz
@@ -60,21 +73,30 @@ Plandeka kedrowa wykonywana na wymiar z tkaniny PCV ok. 650 g/m2. Krawędź z ke
 ## FAQ
 
 ### Czy dopasujecie keder do mojego profilu
-Tak. Potrzebne są wymiary gniazda lub zdjęcia z miarą. Dobieramy keder do profilu.
+
+Tak. Potrzebne są wymiary gniazda lub zdjęcia z miarą. Dobieramy keder do
+profilu.
 
 ### Czy zrobicie wersję trudnopalną
+
 Tak. Wykonujemy z materiału FR na zamówienie.
 
 ### Czy można połączyć keder z oczkami
+
 Tak. Często stosujemy keder na krawędzi głównej i oczka na pozostałych.
 
 ### Po co klapka ochronna
-Zakrywa szczelinę profilu, ogranicza UV i wnikanie wody. Poprawia szczelność i estetykę.
+
+Zakrywa szczelinę profilu, ogranicza UV i wnikanie wody. Poprawia szczelność i
+estetykę.
 
 ### Jakie są maksymalne pola bez łączeń
-Zależne od szerokości belki materiału. Duże formaty dzielimy na panele ze zgrzewem pionowym.
+
+Zależne od szerokości belki materiału. Duże formaty dzielimy na panele ze
+zgrzewem pionowym.
 
 ### Czy montujecie uchwyty do wciągania
+
 Tak. Wszywamy uchwyty z taśmy pasowej w wybranych miejscach.
 
 <script type="application/ld+json">

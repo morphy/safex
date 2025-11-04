@@ -1,24 +1,31 @@
 ---
 title: "Szwalnia przemysłowa z maszynami Typical"
 permalink: /szwalnia-przemyslowa-typical/
-description: "Szycie ciężkich materiałów na maszynach Typical z długim ramieniem 750 mm. Podwójny lub pojedynczy ścieg, mocne nici poliestrowe UV. Produkcja dużych elementów."
+description:
+  "Szycie ciężkich materiałów na maszynach Typical z długim ramieniem 750 mm.
+  Podwójny lub pojedynczy ścieg, mocne nici poliestrowe UV. Produkcja dużych
+  elementów."
 order: 1
 time: 1-5 dni roboczych
 ---
 
 # Szwalnia przemysłowa z maszynami Typical
 
-Szyjemy ciężkie materiały na nowoczesnych, sterowanych elektronicznie maszynach Typical z długim ramieniem 750 mm. Kilka egzemplarzy tych maszyn umożliwia szybkie terminy i realizację dużych formatów.
+Szyjemy ciężkie materiały na nowoczesnych, sterowanych elektronicznie maszynach
+Typical z długim ramieniem 750 mm. Kilka egzemplarzy tych maszyn umożliwia
+szybkie terminy i realizację dużych formatów.
 
 Podaj materiał, wymiary elementu i rodzaj szwu - przygotujemy wycenę.
 
 ## Co szyjemy
+
 - rzepy
 - brezent i plandeki brezentowe
 - siatki przeciwpyłowe
 - inne elementy wymagające bardzo mocnych szwów
 
 ## Dlaczego nasza szwalnia
+
 - długie ramię 750 mm - wygodne prowadzenie dużych formatów
 - podwójny lub pojedynczy ścieg grubymi nićmi - wysoka wytrzymałość
 - nici poliestrowe odporne na UV - trwałość na zewnątrz
@@ -26,28 +33,31 @@ Podaj materiał, wymiary elementu i rodzaj szwu - przygotujemy wycenę.
 
 ## Parametry techniczne
 
-| Parametr | Wartość |
-|---|---|
-| Typ maszyn | Typical, sterowane elektronicznie |
-| Zasięg ramienia | 750 mm |
-| Rodzaje ściegów | pojedynczy, podwójny |
-| Nici | poliestrowe, odporne na UV |
-| Zastosowania | ciężkie materiały i duże elementy |
-| Serwis | produkcja i poprawki na miejscu |
+| Parametr        | Wartość                           |
+| --------------- | --------------------------------- |
+| Typ maszyn      | Typical, sterowane elektronicznie |
+| Zasięg ramienia | 750 mm                            |
+| Rodzaje ściegów | pojedynczy, podwójny              |
+| Nici            | poliestrowe, odporne na UV        |
+| Zastosowania    | ciężkie materiały i duże elementy |
+| Serwis          | produkcja i poprawki na miejscu   |
 
 ## Opcje wykonania
+
 - obszycia, doszycia pasów i uchwytów
 - doszywanie rzepów i taśm wzmacniających
 - kieszenie, tunele, patki, narożniki wzmacniane
 - numeracja i metki identyfikacyjne
 
 ## Jak zlecić
+
 1. Opisz materiał i jego gramaturę/grubość.
 2. Podaj wymiary elementu i oczekiwany typ szwu (pojedynczy/podwójny).
 3. Dołącz szkic z miejscami wzmocnień, kieszeni, tuneli.
 4. Określ ilość sztuk i termin.
 
 ## Najczęstsze błędy
+
 - brak szkicu z wymiarami i kierunkiem prowadzenia szwów
 - dobór zbyt cienkich nici do ciężkiego materiału
 - nieuwzględnienie naddatków na podwinięcia i wzmocnienia
@@ -55,18 +65,24 @@ Podaj materiał, wymiary elementu i rodzaj szwu - przygotujemy wycenę.
 ## FAQ
 
 ### Czy szyjecie bardzo duże elementy
+
 Tak. Długie ramię 750 mm ułatwia prowadzenie dużych formatów.
 
 ### Jakie ściegi stosujecie
+
 Pojedynczy lub podwójny, grubymi nićmi dla wysokiej wytrzymałości.
 
 ### Czy nici są odporne na UV
+
 Tak. Używamy wysokiej klasy nici poliestrowych odpornych na UV.
 
 ### Jak przygotować materiały do szycia
-Dostarcz czyste i wyprostowane formatki lub rolki. W przypadku gotowych wykrojów dołącz numerację.
+
+Dostarcz czyste i wyprostowane formatki lub rolki. W przypadku gotowych wykrojów
+dołącz numerację.
 
 ### Czy wykonujecie wzmacniane narożniki i kieszenie
+
 Tak. Szyjemy narożniki wzmacniane, kieszenie i tunele zgodnie ze szkicem.
 
 <script type="application/ld+json">
