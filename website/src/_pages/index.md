@@ -39,13 +39,15 @@ categoriesFilter:
 
 categoriesTitle: Oferta
 categoriesDesc: >-
-  Główny obszar naszej działalności to produkcja wielkoformatowych rozwiązań
-  okryciowych na zamówienie, takich jak zadaszenia namiotów oraz konstrukcji
-  zewnętrznych. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia
-  namiotów czy blendy tenisowe. Zajmujemy się również dystrybucją plandek,
-  siatek oraz innych materiałów okryciowych, które dostępne są w naszym [sklepie
-  internetowym](https://plandeki24.pl). Zakupić u nas można też materiały
-  gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i budowlane.
+Produkujemy **poszycia z PVC i siatek na wymiar** dla sceny, przemysłu i ogrodu:
+zadaszenia scen i namiotów (także FR), horyzonty i siatki estradowe, kurtyny/kotary,
+pokrowce i osłony maszyn, wanny ociekowe i elastyczne zbiorniki, a także okna
+tarasowe oraz plandeki płaskie, basenowe i na piaskownice. Projekty realizujemy na
+dokumentację lub wzór; łączymy zgrzewanie z szyciem, wzmacniamy strefy mocowań i
+segmentujemy elementy pod szybki montaż oraz serwis. **Gotowe** plandeki PE, siatki
+rusztowaniowe i akcesoria kupisz w naszym sklepie
+[plandeki24.pl](https://plandeki24.pl).
+
 categoriesLink: Pełna oferta
 categoriesHref: oferta
 
@@ -60,16 +62,9 @@ servicesFilter:
   - _oferta/zadaszenia-membranowe/amfiteatr-stezyca/index.md
 
 servicesTitle: Membrany
-servicesDesc: >-
-  Główny obszar naszej działalności to produkcja wielkoformatowych rozwiązań
-  okryciowych na zamówienie, takich jak zadaszenia namiotów oraz konstrukcji
-  zewnętrznych. Zajmujemy się również dystrybucją plandek, siatek oraz innych
-  materiałów okryciowych, które dostępne są w naszym [sklepie
-  internetowym](https://plandeki24.pl). Oferujemy szeroki wybór plandek, w tym
-  lekkie, ciężkie, wodoszczelne oraz okryciowe. Zakupić u nas można też
-  materiały gazoszczelne, zabudowy tarasów, a także siatki kontenerowe i
-  budowlane. Produkujemy również siatki estradowe, wielkoformatowe zadaszenia
-  namiotów czy blendy tenisowe.
+categoriesDesc: >-
+Główny obszar naszej działalności to **produkcja wielkoformatowych poszyć i plandek na zamówienie**: zadaszenia dla namiotów i konstrukcji zewnętrznych, **wielkoformatowe plandeki płaskie**, **plandeki na namioty i hale namiotowe** oraz elementy uzupełniające (ściany, fartuchy, rynny, kotary).
+
 
 servicesLink: Więcej
 servicesHref: oferta/zadaszenia-membranowe
