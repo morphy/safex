@@ -7,12 +7,11 @@ layout: home
 
 # ------ Hero ------
 
-heroTop: PHU Safex Krzysztof Skodowski
-hero: Plandeki na zamówienie i sklep internetowy
+heroTop: Safex Plandeki - producent plandek na wymiar
+hero: Plandeki na zamówienie i sklep internetowy z plandekami
 heroBottom: >-
-  Zajmujemy się produkcją i dystrybucją plandek, siatek oraz membran
-  wysokoprężonych. Oferujemy plandeki lekkie i ciężkie, siatki ochronne oraz
-  plandeki bezbarwne.
+  Plandeki PVC, PE, siatki i okna tarasowe. Szybka wycena, krótkie terminy. Sklep z produktami gotowymi: [plandeki24.pl](https://plandeki24.pl).
+
 
 heroImage: assets/images/safex/safex-siedziba-1.jpg
 heroImageAlt: test
