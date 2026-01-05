@@ -44,7 +44,9 @@ odporność na wodę i UV. Realizacja 5-10 dni roboczych.
 - tunele pod pręt, pasy i rzepy
 - niestandardowy kształt wg rysunku
 - nadruk oznaczeń lub numeracji
-- kolory: czerwony, zielony, niebieski, czarny, biały, antracytowy lub różowy.
+- kolory plandek: czerwony, szary, zielony, niebieski, błękitny, żółty, czarny, biały, antracytowy, ecru, fioletowy, lub różowy w dwóch odcieniach.
+- kolory plandek trudnopalnych: szary, zielony, niebieski, czarny, biały, oraz ecru.
+
 
 ## Jak zamówić
 
