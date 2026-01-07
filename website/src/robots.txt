@@ -4,53 +4,49 @@
 User-agent: *
 Allow: /
 
-# Priorytetowe sekcje (wysokiej jakości treści)
-Allow: /oferta/
-Allow: /baza-wiedzy/
-Allow: /o-nas/
-Allow: /wspolprace/
-Allow: /kontakt/
-
-# Blokuj zbędne zasoby
-Disallow: /assets/
 Disallow: /admin/
 Disallow: /wp-admin/
-Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
 Disallow: /cgi-bin/
-Disallow: /*.pdf$
 Disallow: /search
-Disallow: /*?*
+Disallow: /*.pdf$
 Disallow: /*.json$
 
-# Pozwól CSS i JS dla renderowania
-Allow: /*.css$
-Allow: /*.js$
-Allow: /*.jpg$
-Allow: /*.jpeg$
-Allow: /*.png$
-Allow: /*.webp$
-Allow: /*.svg$
+# Uwaga: jeśli dodasz Disallow: /*?* to zablokujesz też CSS/JS z parametrami typu ?ver=...
+# Disallow: /*?*
 
-# Specific bots
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Yandex
-Allow: /
-
-# Sitemap
 Sitemap: https://www.plandeki.com.pl/sitemap.xml
 Sitemap: https://www.plandeki.com.pl/sitemap-images.xml
 
-# Crawl-delay dla agresywnych botów
 User-agent: SemrushBot
 Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
 
 User-agent: AhrefsBot
 Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
 
 User-agent: MJ12bot
 Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
