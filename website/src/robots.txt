@@ -1,0 +1,56 @@
+# robots.txt dla plandeki.com.pl
+# Wygenerowano: 2026-01-07
+
+User-agent: *
+Allow: /
+
+# Priorytetowe sekcje (wysokiej jakości treści)
+Allow: /oferta/
+Allow: /baza-wiedzy/
+Allow: /o-nas/
+Allow: /wspolprace/
+Allow: /kontakt/
+
+# Blokuj zbędne zasoby
+Disallow: /assets/
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /*.pdf$
+Disallow: /search
+Disallow: /*?*
+Disallow: /*.json$
+
+# Pozwól CSS i JS dla renderowania
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Sitemap
+Sitemap: https://www.plandeki.com.pl/sitemap.xml
+Sitemap: https://www.plandeki.com.pl/sitemap-images.xml
+
+# Crawl-delay dla agresywnych botów
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
