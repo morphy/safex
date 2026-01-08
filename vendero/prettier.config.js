@@ -1,9 +1,7 @@
-/**
- * @type {import("prettier").Config}
- */
-
+/**@type {import("prettier").Config}*/
 const config = {
   trailingComma: "none",
+  plugins: ["prettier-plugin-css-order"],
   overrides: [
     {
       files: ["*.svg", "*.xml"],
