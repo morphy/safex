@@ -27,12 +27,16 @@
         {% include node-images.liquid %}
 
         {% if imageFiles.first.url %}
-          {%
-            picture home-service-thumbnail {{ imageFiles.first.path }}
-            --img class="w-full object-cover"
-            --img alt=""
-            --img loading="lazy"
-          %}
+          {% if jekyll.environment == 'production' %}
+            {%
+              picture home-service-thumbnail {{ imageFiles.first.path }}
+              --img class="w-full object-cover"
+              --img alt=""
+              --img loading="lazy"
+            %}
+          {% else %}
+            <img src="{{ imageFiles.first.url }}" class="w-full object-cover" alt="" loading="lazy">
+          {% endif %}
         {% endif %}
 
         <div class="flex-1 flex items-center justify-center p-6 border-gray-200 border-solid border-b border-r">

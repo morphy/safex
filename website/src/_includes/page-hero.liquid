@@ -1,10 +1,14 @@
 <header class="relative h-80">
   {% if page.heroImage %}
-    {%
-      picture page-hero {{ page.heroImage }}
-      --img class="size-full object-cover"
-      --img alt=""
-    %}
+    {% if jekyll.environment == 'production' %}
+      {%
+        picture page-hero {{ page.heroImage }}
+        --img class="size-full object-cover"
+        --img alt=""
+      %}
+    {% else %}
+      <img src="{{ page.heroImage | relative_url }}" class="size-full object-cover" alt="">
+    {% endif %}
   {% endif %}
 
   <div class="absolute inset-0 bg-black/75 flex items-center justify-center">

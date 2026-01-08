@@ -18,12 +18,16 @@
 
     <div class="shrink-0 basis-auto md:basis-6/12 xxl:basis-5/12">
       {% if page.heroImage %}
-        {%
-          picture home-hero {{ page.heroImage }}
-          --img class="w-full"
-          --img alt="{{ page.heroImageAlt }}"
-          --img loading="lazy"
-        %}
+        {% if jekyll.environment == 'production' %}
+          {%
+            picture home-hero {{ page.heroImage }}
+            --img class="w-full"
+            --img alt="{{ page.heroImageAlt }}"
+            --img loading="lazy"
+          %}
+        {% else %}
+          <img src="{{ page.heroImage }}" class="w-full" loading="lazy" alt="{{ page.heroImageAlt }}">
+        {% endif %}
       {% endif %}
     </div>
   </div>

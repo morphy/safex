@@ -1,0 +1,52 @@
+# robots.txt dla plandeki.com.pl
+# Wygenerowano: 2026-01-07
+
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
+
+# Uwaga: jeśli dodasz Disallow: /*?* to zablokujesz też CSS/JS z parametrami typu ?ver=...
+# Disallow: /*?*
+
+Sitemap: https://www.plandeki.com.pl/sitemap.xml
+Sitemap: https://www.plandeki.com.pl/sitemap-images.xml
+
+User-agent: SemrushBot
+Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$
+
+User-agent: MJ12bot
+Crawl-delay: 10
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /*.pdf$
+Disallow: /*.json$

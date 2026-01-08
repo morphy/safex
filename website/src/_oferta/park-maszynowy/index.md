@@ -1,15 +1,35 @@
 ---
-title: Maszyny i naprawy
-subtitle: usługi świadczymy tymi maszynami
-order: 8
+title: "Maszyny i naprawy"
+subtitle: "Usługi na naszym parku maszynowym"
+description:
+  "Zgrzewanie PVC, szycie przemysłowe, cięcie ploterem, oczkowanie i serwis
+  plandek. Krótkie terminy."
+order: 7
 ---
 
-Dzięki naszemu parkowi maszynowemu, budowanemu przez lata, <strong> Safex
-Plandeki </strong> jest w stanie obrabiać wiele różnorodnych materiałów.
-Posiadamy <strong> przemysłowe maszyny do szycia </strong>, <strong> zgrzewarki
-wysokiej częstotliwości (W.cz) </strong> oraz <strong> ploter </strong>, który
-umożliwia realizację typowych zleceń dla branży poligraficznej. **Klienci mogą
-zwracać się do nas z prośbą o usługi z wykorzystaniem tych maszyn**, a my
-chętnie podejmiemy się realizacji nawet najbardziej wymagających projektów.
-Nasze zaawansowane urządzenia pozwalają na precyzyjne i efektywne wykonanie
-różnorodnych prac, dostosowanych do indywidualnych potrzeb każdego klienta.
+Usługi produkcyjne i serwis plandek **na naszym parku maszynowym**. Krótko,
+terminowo, pod wymiar.<!--more-->
+
+## Co robimy
+
+- naprawy i przeróbki poszyć z PVC i siatek
+- zgrzewanie paneli, wzmocnień, kieszeni, tuneli
+- szycie techniczne: pasy, rzepy, zamki, taśmy
+- cięcie i znakowanie na ploterze
+- oczkowanie, przekrętki, montaż akcesoriów
+
+## Park maszynowy
+
+- zgrzewarki **W.cz (HF)** do PVC
+- zgrzewarki gorącego powietrza/klina
+- **maszyny do szycia** materiałów technicznych
+- **ploter tnący** do folii i tkanin
+- oczkarki/prasy, narzędzia montażowe
+
+## Jak zlecić
+
+1. Opisz materiał i zakres prac, dołącz 2–3 zdjęcia.
+2. Podaj wymiary, grubości oraz oczekiwane mocowania.
+3. Ustalimy technologię (zgrzew/szycie) i termin.
+
+---
