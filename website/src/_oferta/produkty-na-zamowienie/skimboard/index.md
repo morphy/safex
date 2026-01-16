@@ -1,6 +1,5 @@
 ---
 title: "Basen skimboardowy na wymiar"
-permalink: /basen-skimboardowy-na-wymiar/
 description:
   "Dmuchany basen skimboardowy z tkaniny pontonowej PVC/PU. Dno antypoślizgowe,
   zawory powietrza, rękawy spustowe, branding. Realizacje na wymiar, np. 30×3 m."

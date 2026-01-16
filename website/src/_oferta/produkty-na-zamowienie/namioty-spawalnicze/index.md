@@ -1,6 +1,5 @@
 ---
 title: "Poszycia namiotów spawalniczych na wymiar"
-permalink: /poszycia-namiotow-spawalniczych/
 description:
   "Wymienne poszycia do namiotów spawalniczych z tkaniny trudnopalnej. Biała
   strona wewnętrzna dla lepszego doświetlenia, zamknięcia na rzep, szybki

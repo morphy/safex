@@ -1,6 +1,5 @@
 ---
 title: "Osłony na widły wózków widłowych na wymiar"
-permalink: /oslony-na-widly-wozkow-widlowych/
 description:
   "Pokrowce ochronne na widły z PCV 650 g/m2. Chronią ładunek i same widły.
   Montaż na rzepy/paski, szybkie zakładanie. Instrukcja wymiarowania i FAQ."

@@ -1,6 +1,5 @@
 ---
 title: "Zbiorniki otwarte - poszycia na wymiar"
-permalink: /zbiorniki-otwarte-na-wymiar/
 description:
   "Poszycia do zbiorników otwartych z tkaniny PCV Scantarp. Wersje olejoodporne
   i z atestem do wody pitnej. Tunele montażowe, szybkie rozkładanie, torba

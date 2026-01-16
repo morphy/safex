@@ -1,6 +1,5 @@
 ---
 title: "Kotary przemysłowe na wymiar - kotary, przepierzenia, kurtyny"
-permalink: /kotary-przemyslowe-na-wymiar/
 description:
   "Kotary, przepierzenia i kurtyny z PCV na wymiar. Szyny jezdne i rolki,
   prowadzenie na lince lub rurce, rzepy i zamki. Okna transparentne, wersje
