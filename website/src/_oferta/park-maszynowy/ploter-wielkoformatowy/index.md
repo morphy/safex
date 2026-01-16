@@ -1,6 +1,5 @@
 ---
 title: "Ploter wielkoformatowy 3,1 × 21,2 m - rozkrój i znakowanie"
-permalink: /ploter-wielkoformatowy/
 description:
   "Wielkoformatowy ploter o polu 3,1 × 21,2 m. Precyzyjny rozkrój wykrojów z
   uwzględnieniem rozciągliwości materiału. Przygotowanie pod zgrzewanie HF lub

@@ -1,6 +1,5 @@
 ---
 title: "Naprawa siedzisk na ławki ogrodowe"
-permalink: /naprawa-siedzisk-na-lawki-ogrodowe/
 description:
   "Wymiana i szycie siedzisk do ławek ogrodowych z siatki PVC Scanplan 5228.
   Kolory do wyboru, szybka realizacja, proste wymiarowanie. Wyślij stare

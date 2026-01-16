@@ -1,6 +1,5 @@
 ---
 title: "Baseny PCV - poszycia na wymiar"
-permalink: /baseny-pcv/
 description:
   "Poszycia basenowe z tkaniny PCV na wymiar. Zgrzewane, odporne na UV i warunki
   zewnętrzne. Wersje do wody pitnej, kieszenie, kołnierze, wzmocnienia.

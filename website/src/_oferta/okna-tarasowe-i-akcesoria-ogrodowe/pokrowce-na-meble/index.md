@@ -1,6 +1,5 @@
 ---
 title: "Pokrowce na meble ogrodowe na wymiar"
-permalink: /pokrowce-na-meble-ogrodowe-na-wymiar/
 description:
   "Pokrowce na meble ogrodowe szyte na wymiar z tkanin PCV 250-650 g/m2. Opcje
   mocowań: guma expandor, rzepy, paski. Instrukcja wymiarowania i FAQ."

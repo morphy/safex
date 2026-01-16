@@ -1,6 +1,5 @@
 ---
 title: "Przycinanie całych rolek piłą taśmową"
-permalink: /przycinanie-rolek-pila-tasmowa/
 description:
   "Usługa cięcia całych rolek plandek, taśm i folii bez rozwijania. Prześwit 26
   cm, długość elementu do 110 cm. Szybko, równo, z minimalnym nakładem pracy."

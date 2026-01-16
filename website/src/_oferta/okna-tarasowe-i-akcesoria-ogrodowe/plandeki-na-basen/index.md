@@ -1,6 +1,5 @@
 ---
 title: "Plandeki na baseny na wymiar"
-permalink: /plandeki-na-baseny/
 description:
   "Plandeki basenowe z PCV 650 g/m2 na wymiar. Oczka i linka bungee lub tunele
   pod rurki, wzmocnienia krawędzi. Instrukcja wymiarowania i FAQ."

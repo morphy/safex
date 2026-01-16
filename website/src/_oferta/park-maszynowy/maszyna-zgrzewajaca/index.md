@@ -1,6 +1,5 @@
 ---
 title: "Zgrzewanie i naprawa plandek ciepłym powietrzem"
-permalink: /zgrzewanie-i-naprawa-plandek-cieplym-powietrzem/
 description:
   "Usługa zgrzewania i naprawy plandek PVC ciepłym powietrzem. Zgrzewy 35-40 mm,
   tunele, kieszenie, wzmocnienia, łatki serwisowe. Szybkie prototypy i krótkie

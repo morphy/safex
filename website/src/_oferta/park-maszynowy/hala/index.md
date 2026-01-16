@@ -1,6 +1,6 @@
 ---
 title: Hala produkcyjna
-subtitle: Test
+subtitle: 
 order: 2
 ---
 

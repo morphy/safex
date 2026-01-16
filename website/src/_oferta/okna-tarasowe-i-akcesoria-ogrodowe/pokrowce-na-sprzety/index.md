@@ -1,6 +1,5 @@
 ---
 title: "Pokrowce na sprzęty ogrodowe na wymiar"
-permalink: /pokrowce-na-sprzety-ogrodowe-na-wymiar/
 description:
   "Pokrowce na sprzęty ogrodowe szyte na wymiar z tkanin PCV 350-650 g/m2.
   Wodoszczelne, odporne na UV. Mocowania: guma expandor, rzepy, paski.

@@ -1,6 +1,5 @@
 ---
 title: "Ploter tnący – wycinanie folii i szablonów"
-permalink: /ploter-tnacy/
 description:
   "Wycinanie folii, liter, napisów i szablonów na ploterze SUMMA S2 160 T.
   Realna szerokość 158 cm, długość do 12 m, aktywny nóż, nacisk do 600 g,

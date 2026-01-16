@@ -1,6 +1,5 @@
 ---
 title: "Naprawa siedzisk krzeseł ogrodowych"
-permalink: /naprawa-siedzisk-krzesel-ogrodowych/
 description:
   "Wymiana i szycie siedzisk krzeseł ogrodowych z siatki PVC 1,5×2 mm. Kilka
   kolorów, szybka realizacja, instrukcja wymiarowania. Wyślij stare siedzisko
