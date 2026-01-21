@@ -42,12 +42,13 @@ również jako **wyściełanie do basenów pneumatycznych**.
 - Powlekane PCV
 - Produkt standardowy
 - Szerokość rolki: 2,07 m
-- Waga: powyżej 701 g/m²
+- Waga:  800 g/m²
 - Jednobarwne
 - Przetłaczana powierzchnia
-- Naturalnie prześwitujące
 - Specjalne właściwości antypoślizgowe
 - Do szycia
+- Do zgrzewania
+- Dwustronnie powlekana 
 - Zbrojenie: poliester
 
 ---
