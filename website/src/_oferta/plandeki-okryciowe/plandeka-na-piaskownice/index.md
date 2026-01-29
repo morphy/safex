@@ -1,6 +1,6 @@
 ---
 title: "Plandeka na piaskownicę na wymiar"
-permalink: /plandeka-na-piaskownice-na-wymiar/
+permalink: 
 description:
   "Lekka, wytrzymała plandeka na piaskownicę z PCV 440 g/m2. Guma w tunelu po
   obwodzie, otwory odpływowe, odporność UV. Instrukcja wymiarowania."
@@ -8,7 +8,7 @@ order: 3
 time: 3-10 dni roboczych
 ---
 
-# Plandeka na piaskownicę na wymiar
+
 
 Lekka plandeka ochronna na piaskownicę, szyta na wymiar. Materiał PCV ok. 440
 g/m2, odporność na UV i warunki zewnętrzne. Mocowanie: elastyczna guma w tunelu
